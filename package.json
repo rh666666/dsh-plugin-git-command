@@ -1,7 +1,6 @@
 {
   "name": "dsh-plugin-git-command",
   "version": "0.1.0",
-  "private": true,
   "description": "把 /commit、/push、/commit-push 注入会话，按配置的格式提交与推送代码。",
   "type": "module",
   "main": "index.js",
@@ -22,6 +21,24 @@
     "icon.svg",
     "README.md"
   ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "git",
+    "commit",
+    "push"
+  ],
+  "author": "adoleiiiiii",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rh666666/dsh-plugin-git-command.git"
+  },
+  "homepage": "https://github.com/rh666666/dsh-plugin-git-command#readme",
+  "bugs": {
+    "url": "https://github.com/rh666666/dsh-plugin-git-command/issues"
+  },
   "engines": {
     "node": ">=18"
   },
