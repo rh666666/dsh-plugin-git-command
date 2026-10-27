@@ -1,0 +1,9 @@
+- insert:
+    - id: git-command
+      name: dsh-plugin-git-command
+      config:
+        messageExample: |-
+          feat(scope): 说明这处改动为什么必要
+        note: ''
+        scope: session
+        pushStrategy: rebase

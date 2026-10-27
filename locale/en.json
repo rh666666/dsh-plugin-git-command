@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Git Commit Commands",
+    "description": "Injects commit and push instructions into the conversation via /commit, /push, and /commit-push."
+  }
+}

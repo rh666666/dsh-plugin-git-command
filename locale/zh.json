@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Git 提交命令",
+    "description": "用 /commit、/push、/commit-push 把提交与推送指令注入会话。"
+  }
+}
